@@ -1,1 +1,3 @@
 # carbon-incomplete-imperfect
+
+Aggressive climate policy in one location, like carbon taxes, can shift economic activity and the associated emissions into less-regulated locations. Border Carbon Adjustments (BCAs) attempt to prevent this leakage and reduce emissions by introducing carbon prices on imports and exports. Traditional models of leakage and BCAs focus on perfectly competitive markets for regulated goods. This project instead considers when regulated markets are imperfectly competitive, analyzing the connection between market power and BCA design. Using electric power data from the Western US, we simulate and compare greenhouse gas emissions under various BCA policy designs and market power structures.
