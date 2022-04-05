@@ -1,4 +1,6 @@
 ---
+layout: post
+title: A Post with Math
 published: true
 ---
 Have you ever wanted to do some real nice blogging but with some math? Evidently I have. Let's try to see if we can find something that can do the math and the blogging. More importantly, let's see if we can figure out what works and what doesn't.
