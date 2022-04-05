@@ -5,13 +5,12 @@ permalink: /about/
 published: true
 ---
 
-## About Me
+## About the Project
 
-Hi there! My name is Evan Perry and I'm a Junior majoring in Economics and Math at Coe College in Cedar Rapids, Iowa. My main interests are in environmental economics, but I like to dabble in other areas of microeconomics too. Outside of school, I enjoy hiking, backpacking, and music, etc.
+This project began as an end-of-the-semeseter project for an independent study I took titled "Game Theory and the Environment" in fall 2021. Since then, I have revisited it occasionally, trying to update and build on the methodolgy and data. 
 
-## About the Blog
-
-This is a blog and it does some things that like I mean yeah.
+The content of the project itself is heavily influenced by [Fowlie, Petersen, and Reguant (2021)](https://www.aeaweb.org/articles?id=10.1257/pandp.20211073).
+This project attempts to exapnd on their work by introducing models that do not rely on perfectly competitive markets. I seek to analyze the role of uniform and differentiated border carbon adjusments in the face of a variety of market power structures.
 
 ### Contact me
 
