@@ -24,7 +24,7 @@ Let $$mc_i$$ be the marginal cost plant $$i$$ faces. Then the area under the sup
 
 $$\sum_{i \in N} \left( mc_i  \sum_{r \in R} q_{ir} \right).$$
 
-Power plants may incur additional costs with the implementation of a carbon tax, or costs with the implementation of a border carbon adjustment. Let $$\tau$$ be the tax paid on one ton of CO<sub>2<\sub> emissions. Let $$e_i$$ be the emissions intensity of plant $$i$$. With a border carbon adjustment though, plants outside of California may or may not pay the tax based on their emissions intensity. Denote the assessed emissions intensity of a plant (located outside of California) as $$\tilde{e_i}$$. Then the sum of all variable costs from emissions taxes is
+Power plants may incur additional costs with the implementation of a carbon tax, or costs with the implementation of a border carbon adjustment. Let $$\tau$$ be the tax paid on one ton of CO<sub>2</sub> emissions. Let $$e_i$$ be the emissions intensity of plant $$i$$. With a border carbon adjustment though, plants outside of California may or may not pay the tax based on their emissions intensity. Denote the assessed emissions intensity of a plant (located outside of California) as $$\tilde{e_i}$$. Then the sum of all variable costs from emissions taxes is
 
 $$\sum_{i \in \text{California}} \left(\tau e_i \sum_{r \in R} q_{ir}\right).$$
 
